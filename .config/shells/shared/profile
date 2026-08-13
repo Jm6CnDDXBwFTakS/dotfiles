@@ -1,0 +1,17 @@
+alias h='history'
+alias j='jobs -l'
+alias k='clear'
+alias ls='ls -F --color=auto'
+alias l='ls -asF'
+alias ll='ls -lrt'
+alias lla='ls -Alrt'
+
+set -o vi
+
+export DISPLAY=:0.0
+export EDITOR=vim
+export HISTFILE=/dev/null
+export LANG="en_US.UTF-8"
+export LC_TIME="ja_JP.UTF-8"
+export LESSHISTFILE=/dev/null
+export PAGER=less
