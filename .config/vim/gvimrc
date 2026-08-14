@@ -1,0 +1,8 @@
+colorscheme retrobox
+set background=dark
+
+set lines=59
+set columns=103
+set guioptions-=T
+
+set guifont=Jetbrains_Mono_NL:h11
