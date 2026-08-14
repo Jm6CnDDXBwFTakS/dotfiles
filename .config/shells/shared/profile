@@ -5,6 +5,7 @@ alias ls='ls -F --color=auto'
 alias l='ls -asF'
 alias ll='ls -lrt'
 alias lla='ls -Alrt'
+alias gitk='(gitk &)'
 
 set -o vi
 
