@@ -1,0 +1,14 @@
+[user]
+	name = None
+	email = none@example.com
+[push]
+	default = simple
+[core]
+	whitespace = cr-at-eol
+[bash]
+	showDirtyState = true
+	showUntrackedFiles = true
+[pull]
+	rebase = false
+[gui]
+	encoding = utf-8
